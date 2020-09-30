@@ -1,0 +1,37 @@
+.titulos{
+  text-align: center;
+  border: 1px solid black;
+  background: #a5ecd7;
+}
+.titulos2{
+border: 1px solid black;
+background: #a5ecd7;
+}
+#nombre{
+  text-align: center;
+  padding: 2px;
+  background: #0278ae;
+  border: 1px solid black;
+  font-size: 10px;
+
+}
+#subtitulo{
+  text-align: center;
+  color:blue;
+  background: #51adcf;
+  border: 1px solid black;
+  font-size: 8px;
+}
+
+img {
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 100px;
+  width: 80px;
+  border: 5px solid black;
+}
+p{
+  border: 1px solid black;
+  padding: 50px;
+}

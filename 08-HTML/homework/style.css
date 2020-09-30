@@ -1,0 +1,51 @@
+#thirdDiv {
+  border-width: 10px;
+  border-style: dotted;
+  border-color: green;
+  color: red;
+  font-size: 30px;
+  height: 600px;
+  width: 500px;
+  background: blue;
+  padding: 50px
+}
+h1{
+  color:blue;
+}
+body{
+  background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ85b-2O9DbsU39qIpbf5J85PPQRXRsgXnRXw&usqp=CAU);
+  background-attachment:fixed;
+}
+
+#spanId{
+  font-size: 18px;
+  margin: 50px;
+}
+
+ul{
+  text-align: center;
+  color:white;
+}
+
+div{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin: 0 auto;
+  height: 50vh
+
+
+}
+
+.divClass {
+color: blue;
+ }
+
+img {
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 200px;
+  width: 400px;
+}
