@@ -1,19 +1,19 @@
 #thirdDiv {
   border-width: 10px;
   border-style: dotted;
-  border-color: green;
+  border-color: black;
   color: red;
   font-size: 30px;
   height: 600px;
   width: 500px;
-  background: blue;
+  background-color: grey;
   padding: 50px
 }
 h1{
   color:blue;
 }
 body{
-  background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ85b-2O9DbsU39qIpbf5J85PPQRXRsgXnRXw&usqp=CAU);
+  background: url(https://thumbs.dreamstime.com/b/interior-blanco-moderno-del-restaurante-10461787.jpg);
   background-attachment:fixed;
 }
 
@@ -30,6 +30,7 @@ ul{
 div{
   display:flex;
   justify-content: center;
+  flex-direction: column;
   align-items: center;
   text-align: center;
   margin: 0 auto;
