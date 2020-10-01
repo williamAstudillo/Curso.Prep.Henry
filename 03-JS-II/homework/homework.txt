@@ -1,0 +1,4 @@
+for : Es una función que hace que se repita una acción o un algorimo un numero finito o infinito de veces .
+&&: Es un operador lógico llamado Y, que sirve cuando necesitados que dos comparaciones tengan el mismo valor , que ambas sean  verdaderas o ambas  falsas.
+|| :Es un operador lógico llamado O, que permite identificar cuando alguna de dos comparaciones es verdadera o falsa.
+!:Es un operador lógico que permite negar cualquier afirmación o comparación.

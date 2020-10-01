@@ -1,0 +1,11 @@
+Variables: Las variables son espacios en el computador que pueden guardar , numeros , cadenas de texto , valores como true o false,
+palabras como null y undefined que significan nada y indefinido.
+
+Strings: Es un tipo de variable que por lo general contiene texto , palabras , letras y numeros combinados en ella.
+
+Funciones: Son una cadena de algoritmos , o de instrucciones definidas que puedes hacer que el computador haga una y otra vez, cuando llamas a la funcion.
+
+Declaraciones : Es una forma de comparar si una frase es verdadera o falsa y defirnir una acción dependiendo
+del resultado de la afirmación.
+
+Valores boleanos: Es un tipo de variable que tiene solo dos valores true o false , por lo general se usa para comparar dos objetos o elementos.

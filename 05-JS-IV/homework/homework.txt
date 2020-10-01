@@ -1,0 +1,11 @@
+Objetos:Es la descripción de un elemento particular en javaScript , cada elemneto tiene propiedades que lo hacen unico, es como describir una persona.
+
+Propiedades: Son las caracteristicas que hacen unico a un elemento.
+
+Metodos: Son funciones , que hacen que con base a un argumento se pueda llevar acabo una serie de pasos o algoritmos que ya han sido arreglados.
+
+Bucle for..in : sirve para recorrer por dentro un objeto de modo que podamos ver todas sus propiedades.
+
+Notación de puntos vs notación de corchetes: Con ambas notaciones podemos ver una propiedad especifica dentro de un objeto.
+Para el caso de la notación con punto se debe mencionar el nombre del objeto seguido de un punto y el nombre de la propiedad .
+Para el caso de notación corchetes , se debe mencionar el nombre del objeto segido de corchetes y el nombre de la propiedad entre comillas. 

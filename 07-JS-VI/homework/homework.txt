@@ -1,0 +1,1 @@
+Callback: Son funciones a las que se les pasa un dato o argumento , y estan realacionadas con otras funciones adicionales.

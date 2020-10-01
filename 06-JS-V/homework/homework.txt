@@ -1,0 +1,2 @@
+prototype: El prototipo es una funcion o propiedad que distingue a un grupo de objetos de la misma clase.
+Constructors: Es la manera de crear una plantilla de objetos , que luego se les va a agregar caracteristicas diferenciadoras a cada uno.

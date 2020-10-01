@@ -1,0 +1,1 @@
+Arrays: Es un tipo de variable , que permite guardar muchas variables dentro , funciona como una lista , y permite guardar otras variables dentro como numeros , cadenas de texto como palabras , valores de tru o false , etc.
